@@ -1,16 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.0297db7b.chunk.css",
+    "main.css": "/static/css/main.ed580726.chunk.css",
     "main.js": "/static/js/main.2e477b16.chunk.js",
-    "main.js.map": "/static/js/main.2e477b16.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.519c26d6.js",
-    "runtime~main.js.map": "/static/js/runtime~main.519c26d6.js.map",
     "static/js/2.3f02843d.chunk.js": "/static/js/2.3f02843d.chunk.js",
-    "static/js/2.3f02843d.chunk.js.map": "/static/js/2.3f02843d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.0f4c9e03531280f215b33d47c180e7fc.js": "/precache-manifest.0f4c9e03531280f215b33d47c180e7fc.js",
+    "precache-manifest.1eb6fac42ebd91f168ab1e5fc7b57abf.js": "/precache-manifest.1eb6fac42ebd91f168ab1e5fc7b57abf.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.0297db7b.chunk.css.map": "/static/css/main.0297db7b.chunk.css.map",
     "static/media/github-logo.svg": "/static/media/github-logo.45cf7971.svg",
     "static/media/github-search-logo.svg": "/static/media/github-search-logo.96cc10c2.svg",
     "static/media/icon-list.svg": "/static/media/icon-list.866be30c.svg",
